@@ -1,0 +1,1338 @@
+{
+  "career_recommendations": [
+    {
+      "title": "Simulation Engineer",
+      "certifications": [
+        {
+          "title": "Coursera: Simulation and Modeling of Natural Processes",
+          "link": "https://www.coursera.org/learn/simulation-natural-processes"
+        },
+        {
+          "title": "edX: Introduction to Computational Thinking",
+          "link": "https://www.edx.org/course/introduction-to-computational-thinking-and-data"
+        }
+      ],
+      "internships": [
+        {
+          "title": "Simulation Engineering Internships - Naukri",
+          "link": "https://www.naukri.com/simulation-engineering-intern-jobs"
+        },
+        {
+          "title": "CAE Simulation Intern - Internshala",
+          "link": "https://internshala.com/internships/simulation-internship"
+        }
+      ]
+    },
+    {
+      "title": "Backend Developer",
+      "certifications": [
+        {
+          "title": "Meta Backend Developer Certificate (Coursera)",
+          "link": "https://www.coursera.org/professional-certificates/meta-back-end-developer"
+        },
+        {
+          "title": "Udemy: REST APIs with Flask and Python",
+          "link": "https://www.udemy.com/course/rest-api-flask-and-python/"
+        }
+      ],
+      "internships": [
+        {
+          "title": "Internshala Backend Internships",
+          "link": "https://internshala.com/internships/backend-development-internship"
+        },
+        {
+          "title": "SDE Intern - LinkedIn Jobs",
+          "link": "https://www.linkedin.com/jobs/search/?keywords=software%20engineer%20intern"
+        }
+      ]
+    },
+    {
+      "title": "Cybersecurity Specialist",
+      "certifications": [
+        {
+          "title": "CompTIA Security+",
+          "link": "https://www.comptia.org/certifications/security"
+        },
+        {
+          "title": "IBM Cybersecurity Analyst (Coursera)",
+          "link": "https://www.coursera.org/professional-certificates/ibm-cybersecurity-analyst"
+        }
+      ],
+      "internships": [
+        {
+          "title": "Cybersecurity Intern - Internshala",
+          "link": "https://internshala.com/internships/cyber-security-internship"
+        },
+        {
+          "title": "Security Analyst Internship - Naukri",
+          "link": "https://www.naukri.com/cyber-security-intern-jobs"
+        }
+      ]
+    },
+    {
+      "title": "Brand Manager",
+      "certifications": [
+        {
+          "title": "Coursera: Brand Management by University of London",
+          "link": "https://www.coursera.org/learn/brand-management"
+        },
+        {
+          "title": "LinkedIn Learning: Building a Brand Strategy",
+          "link": "https://www.linkedin.com/learning/building-a-brand-strategy"
+        }
+      ],
+      "internships": [
+        {
+          "title": "Brand Management Intern - Internshala",
+          "link": "https://internshala.com/internships/brand-management-internship"
+        },
+        {
+          "title": "Marketing/Brand Intern - LetsIntern",
+          "link": "https://www.letsintern.com/internships/brand-management-internships"
+        }
+      ]
+    },
+    {
+      "title": "ML Engineer",
+      "certifications": [
+        {
+          "title": "Coursera: Machine Learning Specialization (Andrew Ng)",
+          "link": "https://www.coursera.org/specializations/machine-learning-introduction"
+        },
+        {
+          "title": "Udemy: Machine Learning A-Z",
+          "link": "https://www.udemy.com/course/machinelearning/"
+        }
+      ],
+      "internships": [
+        {
+          "title": "Machine Learning Intern - Internshala",
+          "link": "https://internshala.com/internships/machine-learning-internship"
+        },
+        {
+          "title": "AI/ML Internship - Naukri",
+          "link": "https://www.naukri.com/machine-learning-intern-jobs"
+        }
+      ]
+    },
+    {
+      "title": "Risk Analyst",
+      "certifications": [
+        {
+          "title": "Coursera: Risk Management by NYIF",
+          "link": "https://www.coursera.org/learn/risk-management"
+        },
+        {
+          "title": "Udemy: Risk Management Professional Certification",
+          "link": "https://www.udemy.com/course/risk-management-professional-certification/"
+        }
+      ],
+      "internships": [
+        {
+          "title": "Risk Analyst Intern - Internshala",
+          "link": "https://internshala.com/internships/risk-analyst-internship"
+        },
+        {
+          "title": "Finance & Risk Intern - Naukri",
+          "link": "https://www.naukri.com/risk-intern-jobs"
+        }
+      ]
+    },
+    {
+      "title": "Banking Associate",
+      "certifications": [
+        {
+          "title": "Coursera: Financial Markets by Yale",
+          "link": "https://www.coursera.org/learn/financial-markets-global"
+        },
+        {
+          "title": "NSE Academy Certification in Banking",
+          "link": "https://www.nseindia.com/education/ncfm"
+        }
+      ],
+      "internships": [
+        {
+          "title": "Banking Internship - Internshala",
+          "link": "https://internshala.com/internships/banking-internship"
+        },
+        {
+          "title": "Finance & Banking Intern - LetsIntern",
+          "link": "https://www.letsintern.com/internships/banking-internships"
+        }
+      ]
+    },
+    {
+      "title": "SEO Specialist",
+      "certifications": [
+        {
+          "title": "Coursera: SEO Fundamentals by UC Davis",
+          "link": "https://www.coursera.org/learn/seo-fundamentals"
+        },
+        {
+          "title": "Udemy: SEO 2024 Complete Training",
+          "link": "https://www.udemy.com/course/seo-ultimate-guide/"
+        }
+      ],
+      "internships": [
+        {
+          "title": "SEO Intern - Internshala",
+          "link": "https://internshala.com/internships/seo-internship"
+        },
+        {
+          "title": "Digital Marketing (SEO) Internship - LetsIntern",
+          "link": "https://www.letsintern.com/internships/seo-internships"
+        }
+      ]
+    },
+    {
+      "title": "Research Analyst",
+      "certifications": [
+        {
+          "title": "Coursera: Research Methods by University of London",
+          "link": "https://www.coursera.org/learn/research-methods"
+        },
+        {
+          "title": "edX: Market Research and Consumer Behavior",
+          "link": "https://www.edx.org/course/market-research-and-consumer-behavior"
+        }
+      ],
+      "internships": [
+        {
+          "title": "Research Analyst Internship - Internshala",
+          "link": "https://internshala.com/internships/research-internship"
+        },
+        {
+          "title": "Business Research Intern - LinkedIn",
+          "link": "https://www.linkedin.com/jobs/search/?keywords=research%20intern"
+        }
+      ]
+    },
+    {
+      "title": "Medical Researcher",
+      "certifications": [
+        {
+          "title": "Coursera: Understanding Clinical Research",
+          "link": "https://www.coursera.org/learn/clinical-research"
+        },
+        {
+          "title": "edX: Essentials of Human Physiology",
+          "link": "https://www.edx.org/course/human-physiology"
+        }
+      ],
+      "internships": [
+        {
+          "title": "Medical Research Intern - Internshala",
+          "link": "https://internshala.com/internships/medical-internship"
+        },
+        {
+          "title": "Healthcare Research Internship - Indeed",
+          "link": "https://www.indeed.com/q-medical-research-intern-jobs.html"
+        }
+      ]
+    },
+    {
+      "title": "Pharmaceutical Chemist",
+      "certifications": [
+        {
+          "title": "Coursera: Drug Development by UCSanDiego",
+          "link": "https://www.coursera.org/learn/drug-commercialization"
+        },
+        {
+          "title": "edX: Principles of Drug Discovery",
+          "link": "https://www.edx.org/course/principles-of-drug-discovery"
+        }
+      ],
+      "internships": [
+        {
+          "title": "Pharmaceutical Chemistry Internship - Internshala",
+          "link": "https://internshala.com/internships/pharmaceutical-internship"
+        },
+        {
+          "title": "Research Chemist Intern - Naukri",
+          "link": "https://www.naukri.com/pharmaceutical-chemist-intern-jobs"
+        }
+      ]
+    },
+    {
+      "title": "Legal Advisor",
+      "certifications": [
+        {
+          "title": "edX: International Law in Action",
+          "link": "https://www.edx.org/course/international-law-in-action"
+        },
+        {
+          "title": "Coursera: Introduction to Legal Concepts",
+          "link": "https://www.coursera.org/learn/introduction-legal-concepts"
+        }
+      ],
+      "internships": [
+        {
+          "title": "Legal Intern - Internshala",
+          "link": "https://internshala.com/internships/legal-internship"
+        },
+        {
+          "title": "Legal Research Intern - Lawctopus",
+          "link": "https://www.lawctopus.com/category/internship-opportunities/"
+        }
+      ]
+    },
+    {
+      "title": "Bioinformatics Specialist",
+      "certifications": [
+        {
+          "title": "Coursera: Bioinformatics Specialization by UC San Diego",
+          "link": "https://www.coursera.org/specializations/bioinformatics"
+        },
+        {
+          "title": "edX: Data Science for Biomedical Informatics",
+          "link": "https://www.edx.org/course/data-science-biomedical-informatics"
+        }
+      ],
+      "internships": [
+        {
+          "title": "Bioinformatics Internship - Internshala",
+          "link": "https://internshala.com/internships/bioinformatics-internship"
+        },
+        {
+          "title": "Computational Biology Intern - LinkedIn",
+          "link": "https://www.linkedin.com/jobs/search/?keywords=bioinformatics%20intern"
+        }
+      ]
+    },
+    {
+      "title": "Illustrator",
+      "certifications": [
+        {
+          "title": "Udemy: Adobe Illustrator CC – Essentials Training",
+          "link": "https://www.udemy.com/course/adobe-illustrator-course/"
+        },
+        {
+          "title": "Coursera: Graphic Design Specialization",
+          "link": "https://www.coursera.org/specializations/graphic-design"
+        }
+      ],
+      "internships": [
+        {
+          "title": "Illustrator Intern - Internshala",
+          "link": "https://internshala.com/internships/illustrator-internship"
+        },
+        {
+          "title": "Graphic Design Intern with Illustrator - Indeed",
+          "link": "https://www.indeed.com/q-illustrator-intern-jobs.html"
+        }
+      ]
+    },
+    {
+      "title": "Curriculum Designer",
+      "certifications": [
+        {
+          "title": "Coursera: Instructional Design Foundations",
+          "link": "https://www.coursera.org/learn/instructional-design-foundations"
+        },
+        {
+          "title": "edX: Learning Experience Design",
+          "link": "https://www.edx.org/course/learning-experience-design"
+        }
+      ],
+      "internships": [
+        {
+          "title": "Curriculum Design Intern - Internshala",
+          "link": "https://internshala.com/internships/curriculum-design-internship"
+        },
+        {
+          "title": "Instructional Design Internship - Naukri",
+          "link": "https://www.naukri.com/instructional-designer-intern-jobs"
+        }
+      ]
+    },
+    {
+      "title": "Therapist",
+      "certifications": [
+        {
+          "title": "Coursera: Positive Psychiatry and Mental Health",
+          "link": "https://www.coursera.org/learn/positive-psychiatry"
+        },
+        {
+          "title": "Udemy: Psychology and Therapy Fundamentals",
+          "link": "https://www.udemy.com/course/counselling/"
+        }
+      ],
+      "internships": [
+        {
+          "title": "Psychology/Therapist Intern - Internshala",
+          "link": "https://internshala.com/internships/psychology-internship"
+        },
+        {
+          "title": "Mental Health Intern - MindPeers",
+          "link": "https://mindpeers.co/careers"
+        }
+      ]
+    },
+    {
+      "title": "Public Prosecutor",
+      "certifications": [
+        {
+          "title": "Coursera: International Criminal Law",
+          "link": "https://www.coursera.org/learn/international-criminal-law"
+        },
+        {
+          "title": "edX: Constitutional Law",
+          "link": "https://www.edx.org/course/american-contract-law-i"
+        }
+      ],
+      "internships": [
+        {
+          "title": "Legal Research Intern - Lawctopus",
+          "link": "https://www.lawctopus.com/category/internship-opportunities/"
+        },
+        {
+          "title": "Prosecution Internship - Indeed",
+          "link": "https://www.indeed.com/q-public-prosecutor-intern-jobs.html"
+        }
+      ]
+    },
+    {
+      "title": "Entrepreneur",
+      "certifications": [
+        {
+          "title": "edX: Becoming an Entrepreneur by MIT",
+          "link": "https://www.edx.org/course/becoming-an-entrepreneur"
+        },
+        {
+          "title": "Coursera: How to Start Your Own Business",
+          "link": "https://www.coursera.org/learn/how-to-start-a-business"
+        }
+      ],
+      "internships": [
+        {
+          "title": "Startup Internship - Internshala",
+          "link": "https://internshala.com/internships/startup-internship"
+        },
+        {
+          "title": "Entrepreneurship Intern - AngelList",
+          "link": "https://angel.co/jobs"
+        }
+      ]
+    },
+    {
+      "title": "Music Producer",
+      "certifications": [
+        {
+          "title": "Coursera: Music Production by Berklee College of Music",
+          "link": "https://www.coursera.org/learn/music-production"
+        },
+        {
+          "title": "LinkedIn Learning: Music Theory and Production",
+          "link": "https://www.linkedin.com/learning/topics/music-production"
+        }
+      ],
+      "internships": [
+        {
+          "title": "Music Production Intern - Internshala",
+          "link": "https://internshala.com/internships/music-production-internship"
+        },
+        {
+          "title": "Audio/Music Intern - Indeed",
+          "link": "https://www.indeed.com/q-music-production-intern-jobs.html"
+        }
+      ]
+    },
+    {
+      "title": "Engineering Analyst",
+      "certifications": [
+        {
+          "title": "Coursera: Data Analysis and Visualization for Engineers",
+          "link": "https://www.coursera.org/learn/data-visualization-engineers"
+        },
+        {
+          "title": "edX: Systems Engineering",
+          "link": "https://www.edx.org/course/systems-engineering"
+        }
+      ],
+      "internships": [
+        {
+          "title": "Engineering Analyst Intern - Internshala",
+          "link": "https://internshala.com/internships/engineering-internship"
+        },
+        {
+          "title": "Mechanical/Data Engineering Intern - LinkedIn",
+          "link": "https://www.linkedin.com/jobs/search/?keywords=engineering%20analyst%20intern"
+        }
+      ]
+    },
+    {
+      "title": "Market Research Analyst",
+      "certifications": [
+        {
+          "title": "Coursera: Market Research by UC Davis",
+          "link": "https://www.coursera.org/learn/market-research"
+        },
+        {
+          "title": "edX: Marketing Analytics",
+          "link": "https://www.edx.org/course/marketing-analytics"
+        }
+      ],
+      "internships": [
+        {
+          "title": "Market Research Intern - Internshala",
+          "link": "https://internshala.com/internships/market-research-internship"
+        },
+        {
+          "title": "Marketing Analyst Intern - LinkedIn",
+          "link": "https://www.linkedin.com/jobs/search/?keywords=market%20research%20intern"
+        }
+      ]
+    },
+    {
+      "title": "Corporate Lawyer",
+      "certifications": [
+        {
+          "title": "Coursera: Corporate & Commercial Law I",
+          "link": "https://www.coursera.org/learn/corporate-commercial-law"
+        },
+        {
+          "title": "edX: Contract Law",
+          "link": "https://www.edx.org/course/contract-law-from-trust-to-promise-to-contract"
+        }
+      ],
+      "internships": [
+        {
+          "title": "Corporate Law Intern - Lawctopus",
+          "link": "https://www.lawctopus.com/category/internship-opportunities/"
+        },
+        {
+          "title": "Legal Intern (Corporate Law) - Internshala",
+          "link": "https://internshala.com/internships/legal-internship"
+        }
+      ]
+    },
+    {
+      "title": "Urban Planner",
+      "certifications": [
+        {
+          "title": "Coursera: Smart Cities by ETH Zurich",
+          "link": "https://www.coursera.org/learn/smart-cities"
+        },
+        {
+          "title": "edX: Sustainable Urban Development",
+          "link": "https://www.edx.org/course/sustainable-urban-development"
+        }
+      ],
+      "internships": [
+        {
+          "title": "Urban Planning Intern - LinkedIn",
+          "link": "https://www.linkedin.com/jobs/search/?keywords=urban%20planner%20intern"
+        },
+        {
+          "title": "City Planning Intern - Internshala",
+          "link": "https://internshala.com/internships/urban-planning-internship"
+        }
+      ]
+    },
+    {
+      "title": "Biologist",
+      "certifications": [
+        {
+          "title": "edX: Cell Biology",
+          "link": "https://www.edx.org/course/cell-biology"
+        },
+        {
+          "title": "Coursera: Biology Everywhere",
+          "link": "https://www.coursera.org/learn/biology-everywhere"
+        }
+      ],
+      "internships": [
+        {
+          "title": "Biology Research Intern - Internshala",
+          "link": "https://internshala.com/internships/biology-internship"
+        },
+        {
+          "title": "Life Sciences Intern - Naukri",
+          "link": "https://www.naukri.com/biology-intern-jobs"
+        }
+      ]
+    },
+    {
+      "title": "Psychologist",
+      "certifications": [
+        {
+          "title": "Coursera: Foundations of Psychology",
+          "link": "https://www.coursera.org/learn/introduction-psychology"
+        },
+        {
+          "title": "Udemy: Counseling Practitioner Certificate",
+          "link": "https://www.udemy.com/course/counseling-practitioner-course/"
+        }
+      ],
+      "internships": [
+        {
+          "title": "Psychology Intern - Internshala",
+          "link": "https://internshala.com/internships/psychology-internship"
+        },
+        {
+          "title": "Clinical Psychology Intern - Indeed",
+          "link": "https://www.indeed.com/q-psychology-intern-jobs.html"
+        }
+      ]
+    },
+    {
+      "title": "Performer",
+      "certifications": [
+        {
+          "title": "Coursera: Acting 101",
+          "link": "https://www.coursera.org/learn/acting"
+        },
+        {
+          "title": "Udemy: Performing Arts Masterclass",
+          "link": "https://www.udemy.com/course/the-complete-performing-arts-masterclass-bundle/"
+        }
+      ],
+      "internships": [
+        {
+          "title": "Performing Artist Intern - Internshala",
+          "link": "https://internshala.com/internships/performing-arts-internship"
+        },
+        {
+          "title": "Stage Performer Intern - LinkedIn",
+          "link": "https://www.linkedin.com/jobs/search/?keywords=performer%20intern"
+        }
+      ]
+    },
+    {
+      "title": "Composer",
+      "certifications": [
+        {
+          "title": "Coursera: Music Composition for Beginners",
+          "link": "https://www.coursera.org/learn/music-composition"
+        },
+        {
+          "title": "LinkedIn Learning: Music Composition Techniques",
+          "link": "https://www.linkedin.com/learning/music-theory-for-composers"
+        }
+      ],
+      "internships": [
+        {
+          "title": "Composer Intern - Internshala",
+          "link": "https://internshala.com/internships/music-composition-internship"
+        },
+        {
+          "title": "Audio Composer Intern - Indeed",
+          "link": "https://www.indeed.com/q-composer-intern-jobs.html"
+        }
+      ]
+    },
+    {
+      "title": "Physician Assistant",
+      "certifications": [
+        {
+          "title": "Coursera: Clinical Terminology for International Students",
+          "link": "https://www.coursera.org/learn/clinical-terminology"
+        },
+        {
+          "title": "edX: Becoming a Healthcare Professional",
+          "link": "https://www.edx.org/course/becoming-a-healthcare-professional"
+        }
+      ],
+      "internships": [
+        {
+          "title": "Physician Assistant Intern - Naukri",
+          "link": "https://www.naukri.com/physician-assistant-intern-jobs"
+        },
+        {
+          "title": "Medical Assistant Intern - Internshala",
+          "link": "https://internshala.com/internships/medical-internship"
+        }
+      ]
+    },
+    {
+      "title": "Data Scientist",
+      "certifications": [
+        {
+          "title": "IBM Data Science Certificate (Coursera)",
+          "link": "https://www.coursera.org/professional-certificates/ibm-data-science"
+        },
+        {
+          "title": "DataCamp: Data Scientist Career Track",
+          "link": "https://www.datacamp.com/tracks/data-scientist-with-python"
+        }
+      ],
+      "internships": [
+        {
+          "title": "Data Science Intern - Internshala",
+          "link": "https://internshala.com/internships/data-science-internship"
+        },
+        {
+          "title": "ML/Data Intern - LinkedIn",
+          "link": "https://www.linkedin.com/jobs/search/?keywords=data%20scientist%20intern"
+        }
+      ]
+    },
+    {
+      "title": "Teacher",
+      "certifications": [
+        {
+          "title": "Coursera: Foundations of Teaching for Learning",
+          "link": "https://www.coursera.org/specializations/teaching"
+        },
+        {
+          "title": "edX: Becoming a More Equitable Educator",
+          "link": "https://www.edx.org/course/becoming-a-more-equitable-educator"
+        }
+      ],
+      "internships": [
+        {
+          "title": "Teaching Assistant Internship - Internshala",
+          "link": "https://internshala.com/internships/teaching-internship"
+        },
+        {
+          "title": "Educator Intern - LetsIntern",
+          "link": "https://www.letsintern.com/internships/teaching-internships"
+        }
+      ]
+    },
+    {
+      "title": "Visual Designer",
+      "certifications": [
+        {
+          "title": "Coursera: UI/UX Design by California Institute of the Arts",
+          "link": "https://www.coursera.org/specializations/ui-ux-design"
+        },
+        {
+          "title": "Google UX Design Certificate",
+          "link": "https://www.coursera.org/professional-certificates/google-ux-design"
+        }
+      ],
+      "internships": [
+        {
+          "title": "Visual Design Intern - Internshala",
+          "link": "https://internshala.com/internships/graphic-design-internship"
+        },
+        {
+          "title": "UI/UX Intern - LinkedIn",
+          "link": "https://www.linkedin.com/jobs/search/?keywords=visual%20design%20intern"
+        }
+      ]
+    },
+    {
+      "title": "Sound Engineer",
+      "certifications": [
+        {
+          "title": "Coursera: The Art of Music Production",
+          "link": "https://www.coursera.org/learn/music-production"
+        },
+        {
+          "title": "LinkedIn Learning: Audio Mixing Techniques",
+          "link": "https://www.linkedin.com/learning/topics/sound-engineering"
+        }
+      ],
+      "internships": [
+        {
+          "title": "Sound Engineering Intern - Internshala",
+          "link": "https://internshala.com/internships/sound-engineering-internship"
+        },
+        {
+          "title": "Audio Production Intern - Indeed",
+          "link": "https://www.indeed.com/q-sound-engineer-intern-jobs.html"
+        }
+      ]
+    },
+    {
+      "title": "Architect",
+      "certifications": [
+        {
+          "title": "Coursera: Making Architecture by IE School of Architecture",
+          "link": "https://www.coursera.org/learn/making-architecture"
+        },
+        {
+          "title": "edX: The Architectural Imagination",
+          "link": "https://www.edx.org/course/the-architectural-imagination"
+        }
+      ],
+      "internships": [
+        {
+          "title": "Architecture Intern - Internshala",
+          "link": "https://internshala.com/internships/architecture-internship"
+        },
+        {
+          "title": "Design Intern - LinkedIn",
+          "link": "https://www.linkedin.com/jobs/search/?keywords=architecture%20intern"
+        }
+      ]
+    },
+    {
+      "title": "Criminal Lawyer",
+      "certifications": [
+        {
+          "title": "edX: Criminal Law by University of Pennsylvania",
+          "link": "https://www.edx.org/course/criminal-law"
+        },
+        {
+          "title": "Coursera: Introduction to Criminal Justice",
+          "link": "https://www.coursera.org/learn/criminal-justice"
+        }
+      ],
+      "internships": [
+        {
+          "title": "Criminal Law Intern - Lawctopus",
+          "link": "https://www.lawctopus.com/category/internship-opportunities/"
+        },
+        {
+          "title": "Legal Intern (Criminal) - Internshala",
+          "link": "https://internshala.com/internships/legal-internship"
+        }
+      ]
+    },
+    {
+      "title": "Academic Advisor",
+      "certifications": [
+        {
+          "title": "Coursera: Academic Advising and Counseling",
+          "link": "https://www.coursera.org/learn/student-counseling"
+        },
+        {
+          "title": "LinkedIn Learning: Student Success Strategies",
+          "link": "https://www.linkedin.com/learning/topics/academic-advising"
+        }
+      ],
+      "internships": [
+        {
+          "title": "Academic Counseling Intern - Internshala",
+          "link": "https://internshala.com/internships/academic-counseling-internship"
+        },
+        {
+          "title": "Education Advisor Intern - Indeed",
+          "link": "https://www.indeed.com/q-academic-advisor-intern-jobs.html"
+        }
+      ]
+    },
+    {
+      "title": "Art Director",
+      "certifications": [
+        {
+          "title": "Coursera: Art & Ideas: Teaching with Themes",
+          "link": "https://www.coursera.org/learn/art-ideas-teaching-with-themes"
+        },
+        {
+          "title": "LinkedIn Learning: Art Direction for the Web",
+          "link": "https://www.linkedin.com/learning/search?keywords=art%20direction"
+        }
+      ],
+      "internships": [
+        {
+          "title": "Art Direction Intern - Internshala",
+          "link": "https://internshala.com/internships/art-internship"
+        },
+        {
+          "title": "Design Leadership Intern - LinkedIn",
+          "link": "https://www.linkedin.com/jobs/search/?keywords=art%20director%20intern"
+        }
+      ]
+    },
+    {
+      "title": "Behavioral Analyst",
+      "certifications": [
+        {
+          "title": "Coursera: Understanding the Brain",
+          "link": "https://www.coursera.org/learn/medical-neuroscience"
+        },
+        {
+          "title": "Udemy: Applied Behavior Analysis (ABA)",
+          "link": "https://www.udemy.com/course/applied-behavior-analysis-aba/"
+        }
+      ],
+      "internships": [
+        {
+          "title": "Behavioral Psychology Intern - Internshala",
+          "link": "https://internshala.com/internships/psychology-internship"
+        },
+        {
+          "title": "ABA Therapy Intern - Indeed",
+          "link": "https://www.indeed.com/q-behavior-analyst-intern-jobs.html"
+        }
+      ]
+    },
+    {
+      "title": "Software Engineer",
+      "certifications": [
+        {
+          "title": "Coursera: Software Engineering by University of Alberta",
+          "link": "https://www.coursera.org/specializations/software-design-architecture"
+        },
+        {
+          "title": "Udemy: The Complete Python Developer",
+          "link": "https://www.udemy.com/course/complete-python-developer-zero-to-mastery/"
+        }
+      ],
+      "internships": [
+        {
+          "title": "Software Developer Intern - Internshala",
+          "link": "https://internshala.com/internships/software-development-internship"
+        },
+        {
+          "title": "SDE Intern - LinkedIn",
+          "link": "https://www.linkedin.com/jobs/search/?keywords=software%20engineer%20intern"
+        }
+      ]
+    },
+    {
+      "title": "Doctor",
+      "certifications": [
+        {
+          "title": "Coursera: Vital Signs - Understanding What the Body Is Telling Us",
+          "link": "https://www.coursera.org/learn/vital-signs"
+        },
+        {
+          "title": "edX: Essentials of Human Physiology",
+          "link": "https://www.edx.org/course/human-physiology"
+        }
+      ],
+      "internships": [
+        {
+          "title": "Medical Intern (Doctor) - Internshala",
+          "link": "https://internshala.com/internships/medical-internship"
+        },
+        {
+          "title": "Hospital Intern - Indeed",
+          "link": "https://www.indeed.com/q-medical-intern-jobs.html"
+        }
+      ]
+    },
+    {
+      "title": "Education Administrator",
+      "certifications": [
+        {
+          "title": "Coursera: Leading Change in Education",
+          "link": "https://www.coursera.org/learn/leading-change-education"
+        },
+        {
+          "title": "edX: Education Leadership",
+          "link": "https://www.edx.org/course/education-leadership"
+        }
+      ],
+      "internships": [
+        {
+          "title": "Education Management Intern - Internshala",
+          "link": "https://internshala.com/internships/education-internship"
+        },
+        {
+          "title": "Academic Operations Intern - LinkedIn",
+          "link": "https://www.linkedin.com/jobs/search/?keywords=education%20administrator%20intern"
+        }
+      ]
+    },
+    {
+      "title": "Systems Engineer",
+      "certifications": [
+        {
+          "title": "Coursera: Systems Engineering and Design",
+          "link": "https://www.coursera.org/learn/systems-engineering"
+        },
+        {
+          "title": "edX: Systems Thinking",
+          "link": "https://www.edx.org/course/systems-thinking"
+        }
+      ],
+      "internships": [
+        {
+          "title": "Systems Engineer Intern - Internshala",
+          "link": "https://internshala.com/internships/systems-engineering-internship"
+        },
+        {
+          "title": "Infrastructure & Systems Intern - LinkedIn",
+          "link": "https://www.linkedin.com/jobs/search/?keywords=systems%20engineer%20intern"
+        }
+      ]
+    },
+    {
+      "title": "Data Analyst",
+      "certifications": [
+        {
+          "title": "Google Data Analytics Professional Certificate",
+          "link": "https://www.coursera.org/professional-certificates/google-data-analytics"
+        },
+        {
+          "title": "Udemy: Data Analyst Bootcamp",
+          "link": "https://www.udemy.com/course/data-analyst-bootcamp/"
+        }
+      ],
+      "internships": [
+        {
+          "title": "Data Analyst Intern - Internshala",
+          "link": "https://internshala.com/internships/data-analytics-internship"
+        },
+        {
+          "title": "Data Intern - LinkedIn",
+          "link": "https://www.linkedin.com/jobs/search/?keywords=data%20analyst%20intern"
+        }
+      ]
+    },
+    {
+      "title": "Counselor",
+      "certifications": [
+        {
+          "title": "Coursera: Introduction to Psychology",
+          "link": "https://www.coursera.org/learn/introduction-psychology"
+        },
+        {
+          "title": "Udemy: CBT Counseling Practitioner Certificate",
+          "link": "https://www.udemy.com/course/cognitive-behavioral-therapy-cbt-practitioner-certificate/"
+        }
+      ],
+      "internships": [
+        {
+          "title": "Counseling Intern - Internshala",
+          "link": "https://internshala.com/internships/counseling-internship"
+        },
+        {
+          "title": "Mental Health Intern - Indeed",
+          "link": "https://www.indeed.com/q-counselor-intern-jobs.html"
+        }
+      ]
+    },
+    {
+      "title": "Marketing Manager",
+      "certifications": [
+        {
+          "title": "Coursera: Digital Marketing by University of Illinois",
+          "link": "https://www.coursera.org/specializations/digital-marketing"
+        },
+        {
+          "title": "Google Digital Garage: Fundamentals of Digital Marketing",
+          "link": "https://grow.google/intl/en_in/certificates/digital-marketing/"
+        }
+      ],
+      "internships": [
+        {
+          "title": "Marketing Intern - Internshala",
+          "link": "https://internshala.com/internships/marketing-internship"
+        },
+        {
+          "title": "Growth & Marketing Intern - LinkedIn",
+          "link": "https://www.linkedin.com/jobs/search/?keywords=marketing%20intern"
+        }
+      ]
+    },
+    {
+      "title": "Fine Artist",
+      "certifications": [
+        {
+          "title": "Coursera: Art for Beginners",
+          "link": "https://www.coursera.org/learn/modern-art-ideas"
+        },
+        {
+          "title": "Domestika: Illustration & Fine Art Courses",
+          "link": "https://www.domestika.org/en/courses/area/30-illustration"
+        }
+      ],
+      "internships": [
+        {
+          "title": "Fine Arts Intern - Internshala",
+          "link": "https://internshala.com/internships/fine-arts-internship"
+        },
+        {
+          "title": "Studio Assistant Intern - Indeed",
+          "link": "https://www.indeed.com/q-fine-arts-intern-jobs.html"
+        }
+      ]
+    },
+    {
+      "title": "Chemical Analyst",
+      "certifications": [
+        {
+          "title": "Coursera: Analytical Chemistry",
+          "link": "https://www.coursera.org/learn/analytical-chemistry"
+        },
+        {
+          "title": "edX: Chemistry and Society",
+          "link": "https://www.edx.org/course/chemistry-and-society"
+        }
+      ],
+      "internships": [
+        {
+          "title": "Chemical Analyst Intern - Internshala",
+          "link": "https://internshala.com/internships/chemical-internship"
+        },
+        {
+          "title": "Lab Assistant Intern - LinkedIn",
+          "link": "https://www.linkedin.com/jobs/search/?keywords=chemical%20analyst%20intern"
+        }
+      ]
+    },
+    {
+      "title": "Investment Analyst",
+      "certifications": [
+        {
+          "title": "Coursera: Investment Management by University of Geneva",
+          "link": "https://www.coursera.org/learn/investment-management"
+        },
+        {
+          "title": "CFI: Financial Modeling & Valuation Analyst",
+          "link": "https://corporatefinanceinstitute.com/certifications/fmva/"
+        }
+      ],
+      "internships": [
+        {
+          "title": "Investment Analyst Intern - Internshala",
+          "link": "https://internshala.com/internships/finance-internship"
+        },
+        {
+          "title": "Financial Analyst Intern - LinkedIn",
+          "link": "https://www.linkedin.com/jobs/search/?keywords=investment%20analyst%20intern"
+        }
+      ]
+    },
+    {
+      "title": "Geneticist",
+      "certifications": [
+        {
+          "title": "Coursera: Genomics for Beginners",
+          "link": "https://www.coursera.org/learn/genomics"
+        },
+        {
+          "title": "edX: Essentials of Genetics",
+          "link": "https://www.edx.org/course/genetics-and-society"
+        }
+      ],
+      "internships": [
+        {
+          "title": "Genetics Intern - Internshala",
+          "link": "https://internshala.com/internships/genetics-internship"
+        },
+        {
+          "title": "Biomedical Research Intern - Indeed",
+          "link": "https://www.indeed.com/q-genetics-intern-jobs.html"
+        }
+      ]
+    },
+    {
+      "title": "Financial Planner",
+      "certifications": [
+        {
+          "title": "Coursera: Financial Planning for Young Adults",
+          "link": "https://www.coursera.org/learn/fpya"
+        },
+        {
+          "title": "edX: Personal Finance",
+          "link": "https://www.edx.org/course/personal-finance"
+        }
+      ],
+      "internships": [
+        {
+          "title": "Financial Planning Intern - Internshala",
+          "link": "https://internshala.com/internships/finance-internship"
+        },
+        {
+          "title": "Wealth Management Intern - LinkedIn",
+          "link": "https://www.linkedin.com/jobs/search/?keywords=financial%20planning%20intern"
+        }
+      ]
+    },
+    {
+      "title": "Landscape Architect",
+      "certifications": [
+        {
+          "title": "edX: Landscape Ecology",
+          "link": "https://www.edx.org/course/landscape-ecology"
+        },
+        {
+          "title": "Coursera: Green Infrastructure and Urban Sustainability",
+          "link": "https://www.coursera.org/learn/urban-infrastructure"
+        }
+      ],
+      "internships": [
+        {
+          "title": "Landscape Design Intern - Internshala",
+          "link": "https://internshala.com/internships/landscape-internship"
+        },
+        {
+          "title": "Environmental Design Intern - Indeed",
+          "link": "https://www.indeed.com/q-landscape-architect-intern-jobs.html"
+        }
+      ]
+    },
+    {
+      "title": "Marketing Executive",
+      "certifications": [
+        {
+          "title": "Google Digital Marketing Certificate",
+          "link": "https://grow.google/intl/en_in/certificates/digital-marketing/"
+        },
+        {
+          "title": "Coursera: Marketing Strategy",
+          "link": "https://www.coursera.org/learn/marketing-strategy"
+        }
+      ],
+      "internships": [
+        {
+          "title": "Marketing Executive Intern - Internshala",
+          "link": "https://internshala.com/internships/marketing-internship"
+        },
+        {
+          "title": "Sales & Marketing Intern - LinkedIn",
+          "link": "https://www.linkedin.com/jobs/search/?keywords=marketing%20executive%20intern"
+        }
+      ]
+    },
+    {
+      "title": "Interior Designer",
+      "certifications": [
+        {
+          "title": "Udemy: Interior Design for Beginners",
+          "link": "https://www.udemy.com/course/interior-design-course/"
+        },
+        {
+          "title": "Coursera: Design Principles",
+          "link": "https://www.coursera.org/learn/fundamentals-of-design"
+        }
+      ],
+      "internships": [
+        {
+          "title": "Interior Design Intern - Internshala",
+          "link": "https://internshala.com/internships/interior-design-internship"
+        },
+        {
+          "title": "Architectural Design Intern - LinkedIn",
+          "link": "https://www.linkedin.com/jobs/search/?keywords=interior%20design%20intern"
+        }
+      ]
+    },
+    {
+      "title": "Surgeon",
+      "certifications": [
+        {
+          "title": "Coursera: Anatomy Specialization",
+          "link": "https://www.coursera.org/specializations/anatomy"
+        },
+        {
+          "title": "edX: Surgical Skills for Students",
+          "link": "https://www.edx.org/course/surgical-care"
+        }
+      ],
+      "internships": [
+        {
+          "title": "Surgical Intern - Internshala",
+          "link": "https://internshala.com/internships/medical-internship"
+        },
+        {
+          "title": "Hospital Surgical Assistant Intern - Indeed",
+          "link": "https://www.indeed.com/q-surgical-intern-jobs.html"
+        }
+      ]
+    },
+    {
+      "title": "Business Analyst",
+      "certifications": [
+        {
+          "title": "Coursera: Business Analytics by Wharton",
+          "link": "https://www.coursera.org/specializations/business-analytics"
+        },
+        {
+          "title": "edX: Business Analyst MicroMasters",
+          "link": "https://www.edx.org/micromasters/umgc-business-analytics"
+        }
+      ],
+      "internships": [
+        {
+          "title": "Business Analyst Intern - Internshala",
+          "link": "https://internshala.com/internships/business-analyst-internship"
+        },
+        {
+          "title": "BA Intern - LinkedIn",
+          "link": "https://www.linkedin.com/jobs/search/?keywords=business%20analyst%20intern"
+        }
+      ]
+    },
+    {
+      "title": "Lab Technician",
+      "certifications": [
+        {
+          "title": "Coursera: Lab Safety and Skills",
+          "link": "https://www.coursera.org/learn/laboratory-safety"
+        },
+        {
+          "title": "edX: Introduction to Laboratory Science",
+          "link": "https://www.edx.org/course/introduction-to-laboratory-science"
+        }
+      ],
+      "internships": [
+        {
+          "title": "Lab Technician Intern - Internshala",
+          "link": "https://internshala.com/internships/lab-technician-internship"
+        },
+        {
+          "title": "Medical Lab Intern - Naukri",
+          "link": "https://www.naukri.com/lab-technician-intern-jobs"
+        }
+      ]
+    },
+    {
+      "title": "Project Manager",
+      "certifications": [
+        {
+          "title": "Google Project Management Certificate",
+          "link": "https://www.coursera.org/professional-certificates/google-project-management"
+        },
+        {
+          "title": "PMP Certification Training - Simplilearn",
+          "link": "https://www.simplilearn.com/project-management/pmp-certification-training"
+        }
+      ],
+      "internships": [
+        {
+          "title": "Project Management Intern - Internshala",
+          "link": "https://internshala.com/internships/project-management-internship"
+        },
+        {
+          "title": "Operations & PM Intern - LinkedIn",
+          "link": "https://www.linkedin.com/jobs/search/?keywords=project%20manager%20intern"
+        }
+      ]
+    },
+    {
+      "title": "Research Chemist",
+      "certifications": [
+        {
+          "title": "Coursera: Introduction to Chemistry",
+          "link": "https://www.coursera.org/learn/introduction-chemistry"
+        },
+        {
+          "title": "edX: Principles of Chemical Science",
+          "link": "https://www.edx.org/course/principles-of-chemical-science"
+        }
+      ],
+      "internships": [
+        {
+          "title": "Research Chemistry Intern - Internshala",
+          "link": "https://internshala.com/internships/chemistry-internship"
+        },
+        {
+          "title": "Chemical R&D Intern - Indeed",
+          "link": "https://www.indeed.com/q-research-chemist-intern-jobs.html"
+        }
+      ]
+    },
+    {
+      "title": "Technical Assistant",
+      "certifications": [
+        {
+          "title": "LinkedIn Learning: IT Support Skills",
+          "link": "https://www.linkedin.com/learning/search?keywords=technical%20support"
+        },
+        {
+          "title": "Coursera: Technical Support Fundamentals (Google)",
+          "link": "https://www.coursera.org/learn/technical-support-fundamentals"
+        }
+      ],
+      "internships": [
+        {
+          "title": "Technical Assistant Intern - Internshala",
+          "link": "https://internshala.com/internships/technical-assistant-internship"
+        },
+        {
+          "title": "IT Support Intern - LinkedIn",
+          "link": "https://www.linkedin.com/jobs/search/?keywords=technical%20assistant%20intern"
+        }
+      ]
+    }
+  ]
+}
